@@ -65,7 +65,7 @@ Customer: /product → Select Item → Choose Qty → Choose Bank
 ### 1️⃣ Clone & install
 
 ```bash
-git clone https://github.com/kentzu213/telegram-shop-bot.git
+git clone https://github.com/cong82-dev/telegram-shop-bot.git
 cd telegram-shop-bot
 npm install
 ```
